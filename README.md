@@ -1,11 +1,12 @@
-Readme for the symmetry detection test data set by Bolten and Dalitz
-====================================================================
+Symmetry detection test data set by Bolten and Dalitz
+=====================================================
 
 Purpose
 -------
 
 This data set can be used to evaluate rotational symmetry detection
-algorithms. It was first used and described in the paper
+algorithms. It was first presented at VISAP 2013 and is used and
+described in the paper
 
   C. Dalitz, R. Pohle-Froehlich, T. Bolten:
   "Detection of Symmetry Points in Images."
@@ -58,8 +59,8 @@ The second author can be contacted by email over
 christoph (dot) dalitz (at) hsnr (dot) de
 
 The latest version of this data set is available from:
- - http://informatik.hsnr.de/~dalitz/data/visapp13/
  - https://github.com/cdalitz/symmetry-visapp13/
+ - https://lionel.kr.hs-niederrhein.de/~dalitz/data/visapp13/
 
 All images in this data set are copyrighted by Tobias Bolten.
 Permission is granted to use them freely for research purposes
