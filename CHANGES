@@ -1,0 +1,19 @@
+Change log of symmetry detection test data set
+==============================================
+
+Version 1.2, 22. Oct 2026:
+--------------------------
+
+ - added categories front/light skew/strong skew in groundtruth/*/*.type
+
+
+Version 1.1, 03. May 2013:
+--------------------------
+
+ - added missing ground truth symmetries in object7_2 and tent1_2
+
+
+Version 1.0, 05. Mar 2013:
+--------------------------
+
+- first release
