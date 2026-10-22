@@ -51,9 +51,9 @@ Copyright and Where to Get It
 -----------------------------
 
 Copyright 2013 by
-Tobias Bolten and Christoph Dalitz
-Institute for Pattern Recognition
-Niederrhein Unversity of Applied Sciences
+Tobias Bolten and Christoph Dalitz,
+Institute for Pattern Recognition,
+Niederrhein Unversity of Applied Sciences,
 47805 Krefeld, Germany
 
 The second author can be contacted by email over
