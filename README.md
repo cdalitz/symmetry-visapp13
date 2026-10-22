@@ -36,7 +36,7 @@ are three corresponding ground truth files:
     All "obvious" rotational symmetries as a bracketed nested list
     of tuples. Each tuple is of the following format:
 
-      ((center_x, center_y), (diag_1, diag_2), angle)
+        ((center_x, center_y), (diag_1, diag_2), angle)
 
     where angle is the rotation angle of the ellipse long axis.
 
