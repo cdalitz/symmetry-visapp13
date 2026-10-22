@@ -56,7 +56,7 @@ Institute for Pattern Recognition,
 Niederrhein Unversity of Applied Sciences,
 47805 Krefeld, Germany
 
-The second author can be contacted by email over
+The second author can be contacted by email via
 christoph (dot) dalitz (at) hsnr (dot) de
 
 The latest version of this data set is available from:
