@@ -8,11 +8,11 @@ This data set can be used to evaluate rotational symmetry detection
 algorithms. It was first presented at VISAP 2013 and is used and
 described in the paper
 
-  C. Dalitz, R. Pohle-Froehlich, T. Bolten:
-  "Detection of Symmetry Points in Images."
-  International Conference on Computer Vision Theory and Applications
-  (VISAPP), pp. 577-585, 2013
-  https://doi.org/10.5220/0004179405770585
+>  C. Dalitz, R. Pohle-Froehlich, T. Bolten:
+>  "Detection of Symmetry Points in Images."
+>  International Conference on Computer Vision Theory and Applications
+>  (VISAPP), pp. 577-585, 2013
+>  https://doi.org/10.5220/0004179405770585
 
 
 Contents
@@ -68,8 +68,8 @@ Permission is granted to use them freely for research purposes
 and to include individual images into publicatons, provided
 you give reference to the following paper:
 
-  C. Dalitz, R. Pohle-Froehlich, T. Bolten:
-  "Detection of Symmetry Points in Images."
-  International Conference on Computer Vision Theory and Applications
-  (VISAPP), pp. 577-585, 2013
+>  C. Dalitz, R. Pohle-Froehlich, T. Bolten:
+>  "Detection of Symmetry Points in Images."
+>  International Conference on Computer Vision Theory and Applications
+>  (VISAPP), pp. 577-585, 2013
 
