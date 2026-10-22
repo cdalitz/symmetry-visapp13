@@ -19,19 +19,19 @@ Contents
 
 The data set consists of 159 images of size 600×400, containing 
 27 different subjects. Each subject is shown in different perspectives 
-and both in context and in detail. For each image "xyz.png", there
+and both in context and in detail. For each image `xyz.png`, there
 are three corresponding ground truth files:
 
-  xyz.type
+ - `xyz.type`
 
-    Contains two lines:
-	 - first line is 'normal' or 'detail', where 'detail' images mainly
-	   show only the symmetric object, while 'normal' images also show
-	   an embedding scenery.
-	 - second line is 'front', 'light skew', or 'strong skew', indicating
-	   the degree of proportional skew in the top symmetry.
+   Contains two lines:
+    o first line is 'normal' or 'detail', where 'detail' images mainly
+	  show only the symmetric object, while 'normal' images also show
+	  an embedding scenery.
+	o second line is 'front', 'light skew', or 'strong skew', indicating
+	  the degree of proportional skew in the top symmetry.
 
-  xyz.symmetries
+ - `xyz.symmetries`
 
     All "obvious" rotational symmetries as a bracketed nested list
     of tuples. Each tuple is of the following format:
@@ -40,7 +40,7 @@ are three corresponding ground truth files:
 
     where angle is the rotation angle of the ellipse long axis.
 
-  xyz.axial_rotational
+  - `xyz.axial_rotational`
 
     Lists for some points with point reflection symmetries
     whether they are axial symmetries ('a') or rotational symmetries ('r').
