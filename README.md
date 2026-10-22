@@ -1,5 +1,5 @@
-Symmetry detection test data set by Bolten and Dalitz
-=====================================================
+Rotational Symmetry Detection Image Data Set
+============================================
 
 Purpose
 -------
