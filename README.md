@@ -5,7 +5,7 @@ Purpose
 -------
 
 This data set can be used to evaluate rotational symmetry detection
-algorithms. It was first presented at VISAP 2013 and is used and
+algorithms. It was first presented at VISAPP 2013 and is used and
 described in the paper
 
 >  C. Dalitz, R. Pohle-Froehlich, T. Bolten:
