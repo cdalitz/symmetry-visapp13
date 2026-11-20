@@ -26,10 +26,10 @@ are three corresponding ground truth files:
  - *xyz.type*
 
    Contains two lines:
-    o first line is 'normal' or 'detail', where 'detail' images mainly
+    * first line is 'normal' or 'detail', where 'detail' images mainly
 	  show only the symmetric object, while 'normal' images also show
 	  an embedding scenery.
-	o second line is 'front', 'light skew', or 'strong skew', indicating
+	* second line is 'front', 'light skew', or 'strong skew', indicating
 	  the degree of proportional skew in the top symmetry.
 
  - *xyz.symmetries*
